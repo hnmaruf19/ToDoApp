@@ -1,6 +1,3 @@
-# to_do_app.py
-# Simple To-Do List Application
-
 tasks = []
 
 def show_menu():
